@@ -1,12 +1,10 @@
-fastapi
-uvicorn
 streamlit
 langchain
+langchain-community
+langchain-openai
 openai
 chromadb
 tiktoken
-pydantic
-python-multipart
-PyPDF2
-docx
+pypdf
+docx2txt
 python-dotenv
